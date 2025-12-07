@@ -1,2 +1,10 @@
-# DSA-Solutions-CPP
-My personal library of C++ code for competitive programming and DSA. Feel free to check out my solutions or suggest optimizations!
+
+# DSA Solutions in C++
+
+Hi! I am Aditya, this is my personal collection of Data Structures and Algorithms problems that I have solved.
+
+# Tech Stack
+- Language: C++
+- Focus: LeetCode, GeeksForGeeks, Striver DSA Sheet
+
+*Feel free to star ⭐ this repo if you find it helpful!*
